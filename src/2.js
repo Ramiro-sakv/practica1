@@ -1,1 +1,1 @@
-/***** Mi nuevo archivo de edicion *********/
+/* MI ARCHIVO EDITADO */
